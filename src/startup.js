@@ -1,3 +1,4 @@
+// Test 2 from Github's main branch
 const HotPocket = require('hotpocket-nodejs-contract');
 const bson = require('bson');
 const Controller = require('./controller');
