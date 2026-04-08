@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "postExecutionScriptName": "./post_exec.sh",
+    "dbPath": "procurement.db",
+    "dbScriptsFolderPath": "./dbScripts",
+    "newContractZipFileName": "./newContractData.zip"
+  }
+}
