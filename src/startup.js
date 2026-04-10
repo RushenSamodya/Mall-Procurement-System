@@ -4,7 +4,7 @@ const bson = require('bson');
 const Controller = require('./controller');
 const DBInitializer = require('./Data.Deploy/initDB');
 const SharedService = require('./Services/Common.Services/SharedService');
-// comment
+// new comment
 const contract = async (ctx) => {
 //  console.log('Shopping Mall Procurement contract running.....');
   SharedService.context = ctx;
